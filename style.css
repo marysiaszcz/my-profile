@@ -11,6 +11,9 @@
 	padding-left:0px;
 	padding-right:0px;
 	}
+h1 {
+	font-size:150%;
+}
 }
 @media (max-width: 720px) {
   .container {
@@ -61,4 +64,11 @@ h1 {
 }
 .img_avatar img {
 	border-radius:50%;
+}
+.img_city {
+	text-align:center;
+	margin:20px;
+}
+.img_city img {
+	border-radius:10px;
 }
