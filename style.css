@@ -1,4 +1,4 @@
-@media (max-width: 960px) {
+@media (max-width: 980px) {
   .container {
     width: 700px;
   }
@@ -29,8 +29,8 @@ h1 {
 
 .container {
 	padding:10px;
-	width:65%;
 	margin: auto;
+	width:85%;
 }
 .white_box {
 	padding:30px;
