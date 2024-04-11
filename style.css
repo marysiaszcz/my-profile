@@ -1,8 +1,16 @@
-@media (max-width: 980px) {
+@media (max-width: 1080px) {
   .container {
     width: 900px;
 	font-size:150%;
+	
   }
+  .text {
+	font-family:Ubuntu;
+	font-size:26px;
+	text-align:center;
+	padding-left:0px;
+	padding-right:0px;
+	}
 }
 @media (max-width: 720px) {
   .container {
@@ -44,6 +52,8 @@ h1 {
 	font-family:Ubuntu;
 	font-size:26px;
 	text-align:center;
+	padding-left:50px;
+	padding-right:50px;
 	}
 .img_avatar {
 	text-align:center;
